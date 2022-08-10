@@ -1,0 +1,25 @@
+/*
+    #F3BF99
+*/
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #000000FF;;
+    border: 1px solid red;
+}
+
+.array-container {
+    border: 1px solid red;
+    position:relative;
+    text-align: center;
+    margin: 100px auto;
+}
+
+.array-bar {
+    width: 2px;
+    display:inline-flex;
+    margin: 25px 1px;
+}
